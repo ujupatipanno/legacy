@@ -1,0 +1,10 @@
+{
+  "id": "legacy-file-plugin",
+  "name": "레거시 파일",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "레거시 파일을 만들고 관리하는 플러그인입니다.",
+  "author": "ujupatipanno",
+  "authorUrl": "https://github.com/ujupatipanno",
+  "isDesktopOnly": false
+}
